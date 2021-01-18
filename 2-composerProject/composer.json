@@ -1,0 +1,17 @@
+{
+    "name": "doniben/2-composer-project",
+    "description": "This is a test to get a experience with composer init",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "3.x-dev",
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Doniben",
+            "email": "doniben@esperanto.co"
+        }
+    ],
+    "minimum-stability": "dev"
+}
