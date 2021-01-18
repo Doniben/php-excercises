@@ -7,7 +7,7 @@ function upper($value)
     }
 }
 
-if ( ! function_exists('upper') ) {
+if ( ! function_exists('lower') ) {
 function lower($value)
     {
         return Text\Format::lowerText($value);
